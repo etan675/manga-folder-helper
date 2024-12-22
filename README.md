@@ -6,12 +6,9 @@ A console (CLI) tool that streamlines the process of converting manga from manga
 
 I have documented the FULL steps on downloading, converting, and transferring manga to kindle at the bottom of this tutorial, feel free to have a quick read of those steps first for some context.
 
-This section is about using the console tool specifically.
-
-
 ### Description (12/12/2024):
 
-Basically, manga sources downloaded from mangakatana.com will be organised in nested folders. But KCC doesn't support nested folders in its input, and we definitely don't want to be manually picking out the files for each chapter and converting one at a time.
+Basically, manga sources downloaded from mangakatana.com will be organised in nested folders, but KCC doesn't support nested folders as input, and we definitely don't want to be manually picking out the files for each chapter and converting one at a time.
  
 So we want to end up with just a single 'flattened' folder, with all of the manga's source files in its original sequence, we will then use this as the input for KCC.
 
@@ -27,7 +24,7 @@ KCC: https://github.com/ciromattia/kcc\
 Follow instructions on their github page to install the desktop app
 
 Python3: https://www.python.org/downloads/\
-If not already installed, you will need python3 as it's the language the script is be written in. (run ```python3 --version``` in your terminal to check if you have it)
+If not already installed, you will need python3 as it's the programming language I used. (run ```python3 --version``` in your terminal to check if you have it)
 
 
 ### Function:
@@ -51,15 +48,14 @@ If not already installed, you will need python3 as it's the language the script 
         - ...
 
 
-### Usage:
+### Instructions:
 Examples for mac, but instructions are the same for other OS.
 
-1. Download the repo to your desired folder\
-    (can also clone if you want but you know what to do)
+1. Download (or clone) this repository to your desired folder\
     - Click the green ```< > Code``` button on this page
     - Click Download ZIP (e.g. to Desktop), then unZIP
 
-2. Open up the terminal and navigate into this folder
+2. Open up the terminal and navigate into the folder
     - e.g. ```cd ~/Desktop/manga-folder-helper```
 
 3. Optional: create a new folder as the output's destination
