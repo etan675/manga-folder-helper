@@ -17,13 +17,13 @@ So we want to end up with just a single 'flattened' folder, with all of the mang
 
 ### Requirements:
 
-MangaKatana: https://mangakatana.com/\
+MangaKatana: https://mangakatana.com/
 Search and download the manga you want, the website allows you to download chapters in batches of 10.
 
-KCC: https://github.com/ciromattia/kcc\
+KCC: https://github.com/ciromattia/kcc
 Follow instructions on their github page to install the desktop app
 
-Python3: https://www.python.org/downloads/\
+Python3: https://www.python.org/downloads/
 If not already installed, you will need python3 as it's the programming language I used. (run ```python3 --version``` in your terminal to check if you have it)
 
 
@@ -51,7 +51,7 @@ If not already installed, you will need python3 as it's the programming language
 ### Instructions:
 Examples for mac, but instructions are the same for other OS.
 
-1. Download (or clone) this repository to your desired folder\
+1. Download (or clone) this repository to your desired folder
     - Click the green ```< > Code``` button on this page
     - Click Download ZIP (e.g. to Desktop), then unZIP
 
@@ -73,7 +73,7 @@ Examples for mac, but instructions are the same for other OS.
 
 ### Further Resources
 
-Here's a great tutorial on how to use KCC and transferring files to kindle:\
+Here's a great tutorial on how to use KCC and transferring files to kindle:
 https://www.youtube.com/watch?v=SaBTFTuD6hk&t=545s&ab_channel=LeoLabTech
 
 FULL steps online to kindle:
