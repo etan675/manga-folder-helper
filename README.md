@@ -17,7 +17,7 @@ pick out the files for each chapter and converting them one at a time.
 So we want to end up with just a single 'flattened' folder, with all of the manga's source files 
 in its original sequence, we will then use this as the input for KCC.
 
-```flatten.py``` is a tool/script that generates and outputs a 'flattened' version of the manga's
+```flatten.py``` is a tool that generates and outputs a 'flattened' version of the manga's
 source for you, so that you can convert everything in one go!
 
 
@@ -30,7 +30,7 @@ KCC: https://github.com/ciromattia/kcc
 Follow instructions on their github page to install the desktop app
 
 Python3: https://www.python.org/downloads/
-If not already installed, you will need python3 as it's the programming language I used 
+If not already installed, you will need python3 to run the flatten program.
 (run ```python3 --version``` in your terminal to check if you have it).
 
 
