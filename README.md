@@ -10,9 +10,9 @@ the bottom of this tutorial, feel free to have a quick read of those steps first
 
 ### Description (12/12/2024):
 
-Basically, manga sources downloaded from mangakatana.com will be organised in nested folders, 
-but KCC doesn't support nested folders as input, and we definitely don't want to be manually 
-picking out the files for each chapter and converting one at a time.
+Manga sources downloaded from mangakatana.com will be organised in nested folders, 
+but KCC doesn't support nested folders as input and we definitely don't want to manually 
+pick out the files for each chapter and converting them one at a time.
  
 So we want to end up with just a single 'flattened' folder, with all of the manga's source files 
 in its original sequence, we will then use this as the input for KCC.
@@ -96,6 +96,6 @@ FULL steps online to kindle:
 I prefer this as it will make the entire thing appear as one 'book' in your kindle library.
 
 6. Move your manga folder into the correct kindle drive:
-    -  your kindle drive -> documents
+    -  your kindle drive / documents
 7. Eject the kindle drive and start reading :)
 
